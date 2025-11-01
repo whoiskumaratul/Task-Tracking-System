@@ -1,0 +1,416 @@
+[{
+  "_id": {
+    "$oid": "68ca727271b13a42f3f81f0f"
+  },
+  "employeeId": {
+    "$oid": "68ca60e0b0ba98ed12b75f65"
+  },
+  "projectId": "P124",
+  "hoursWorked": 15,
+  "remarks": "",
+  "date": {
+    "$date": "2025-09-17T08:33:54.279Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-17T08:33:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T08:33:54.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca727771b13a42f3f81f11"
+  },
+  "employeeId": {
+    "$oid": "68ca60e0b0ba98ed12b75f65"
+  },
+  "projectId": "P124",
+  "hoursWorked": 9,
+  "remarks": "",
+  "date": {
+    "$date": "2025-09-17T08:33:59.220Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-17T08:33:59.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T08:33:59.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cbb459328605429d0fe3f7"
+  },
+  "employeeId": {
+    "$oid": "68ca60e0b0ba98ed12b75f65"
+  },
+  "projectId": "P124",
+  "username": "whoiskumarranjan",
+  "hoursWorked": 11,
+  "remarks": "",
+  "date": {
+    "$date": "2025-09-18T07:27:21.410Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-18T07:27:21.431Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T07:27:21.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cbb8eb328605429d0fe3f9"
+  },
+  "employeeId": {
+    "$oid": "68ca60e0b0ba98ed12b75f65"
+  },
+  "projectId": "P124",
+  "username": "whoiskumarranjan",
+  "hoursWorked": 12,
+  "remarks": "",
+  "date": {
+    "$date": "2025-09-18T07:46:51.853Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-18T07:46:51.876Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T07:46:51.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cbb99b328605429d0fe3fb"
+  },
+  "employeeId": {
+    "$oid": "68ca60e0b0ba98ed12b75f65"
+  },
+  "projectId": "P124",
+  "username": "whoiskumarranjan",
+  "hoursWorked": 14,
+  "remarks": "",
+  "date": {
+    "$date": "2025-09-18T07:49:47.713Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-18T07:49:47.733Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T07:49:47.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cbbb85328605429d0fe407"
+  },
+  "employeeId": {
+    "$oid": "68ca60e0b0ba98ed12b75f65"
+  },
+  "projectId": "P124",
+  "username": "whoiskumarranjan",
+  "hoursWorked": 7,
+  "remarks": "",
+  "date": {
+    "$date": "2025-09-18T07:57:57.223Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-18T07:57:57.252Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T07:57:57.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cf108c8728d9b3ca66a1cb"
+  },
+  "employeeId": {
+    "$oid": "68c45dd412581208abfd01b8"
+  },
+  "projectId": "P123",
+  "username": "whoiskumaratul",
+  "date": {
+    "$date": "2025-09-19T18:30:00.000Z"
+  },
+  "hoursWorked": 2,
+  "remarks": "",
+  "createdAt": {
+    "$date": "2025-09-20T20:37:32.308Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-20T20:37:32.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cf178184d97c557ea753b6"
+  },
+  "employeeId": {
+    "$oid": "68c45dd412581208abfd01b8"
+  },
+  "projectId": "P123",
+  "username": "whoiskumaratul",
+  "date": {
+    "$date": "2025-02-04T18:30:00.000Z"
+  },
+  "hoursWorked": 4,
+  "remarks": "",
+  "createdAt": {
+    "$date": "2025-09-20T21:07:13.369Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-20T21:07:13.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cf17df7e391c84261b49ce"
+  },
+  "employeeId": {
+    "$oid": "68c45dd412581208abfd01b8"
+  },
+  "projectId": "P123",
+  "username": "whoiskumaratul",
+  "date": {
+    "$date": "2025-03-04T18:30:00.000Z"
+  },
+  "hoursWorked": 8,
+  "remarks": "",
+  "createdAt": {
+    "$date": "2025-09-20T21:08:47.505Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-20T21:08:47.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cf181f39af0cf802f7d290"
+  },
+  "employeeId": {
+    "$oid": "68c45dd412581208abfd01b8"
+  },
+  "projectId": "P123",
+  "username": "whoiskumaratul",
+  "date": {
+    "$date": "2025-03-22T18:30:00.000Z"
+  },
+  "hoursWorked": 6,
+  "remarks": "",
+  "createdAt": {
+    "$date": "2025-09-20T21:09:51.742Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-20T21:09:51.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cf2307f4739c1377771130"
+  },
+  "employeeId": {
+    "$oid": "68ca60e0b0ba98ed12b75f65"
+  },
+  "projectId": "P124",
+  "username": "whoiskumarranjan",
+  "date": {
+    "$date": "2025-02-03T18:30:00.000Z"
+  },
+  "hoursWorked": 8,
+  "remarks": "",
+  "createdAt": {
+    "$date": "2025-09-20T21:56:23.559Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-20T21:56:23.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cfe7c5209155aad414f436"
+  },
+  "employeeId": {
+    "$oid": "68c45dd412581208abfd01b8"
+  },
+  "projectId": "P123",
+  "username": "whoiskumaratul",
+  "date": {
+    "$date": "1999-12-31T18:30:00.000Z"
+  },
+  "hoursWorked": 21,
+  "remarks": "",
+  "createdAt": {
+    "$date": "2025-09-21T11:55:49.533Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-21T11:55:49.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d106c713d588f3131627ce"
+  },
+  "employeeId": {
+    "$oid": "68c45dd412581208abfd01b8"
+  },
+  "projectId": "P123",
+  "username": "whoiskumaratul",
+  "date": {
+    "$date": "2020-04-04T18:30:00.000Z"
+  },
+  "hoursWorked": 12,
+  "remarks": "",
+  "createdAt": {
+    "$date": "2025-09-22T08:20:23.249Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T08:20:23.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d1088313d588f3131627d5"
+  },
+  "employeeId": {
+    "$oid": "68c45dd412581208abfd01b8"
+  },
+  "projectId": "P123",
+  "username": "whoiskumaratul",
+  "date": {
+    "$date": "2020-02-04T18:30:00.000Z"
+  },
+  "hoursWorked": 7,
+  "remarks": "",
+  "createdAt": {
+    "$date": "2025-09-22T08:27:47.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T08:27:47.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d1094f601f04c225087685"
+  },
+  "employeeId": {
+    "$oid": "68ca60e0b0ba98ed12b75f65"
+  },
+  "projectId": "P124",
+  "username": "whoiskumarranjan",
+  "date": {
+    "$date": "2022-03-02T18:30:00.000Z"
+  },
+  "hoursWorked": 4,
+  "remarks": "",
+  "createdAt": {
+    "$date": "2025-09-22T08:31:11.939Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T08:31:11.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d4f7361d557fae49e6d5e0"
+  },
+  "employeeId": {
+    "$oid": "68ca60e0b0ba98ed12b75f65"
+  },
+  "projectId": "P124",
+  "username": "whoiskumarranjan",
+  "date": {
+    "$date": "2025-04-04T18:30:00.000Z"
+  },
+  "hoursWorked": 13,
+  "remarks": "",
+  "createdAt": {
+    "$date": "2025-09-25T08:03:02.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-25T08:03:02.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d64f71d973bde4b73cfbcc"
+  },
+  "employeeId": {
+    "$oid": "68c45dd412581208abfd01b8"
+  },
+  "projectId": "P123",
+  "username": "whoiskumaratul",
+  "date": {
+    "$date": "2025-09-05T18:30:00.000Z"
+  },
+  "hoursWorked": 5,
+  "remarks": "",
+  "createdAt": {
+    "$date": "2025-09-26T08:31:46.036Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T08:31:46.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d64fc5d973bde4b73cfbd4"
+  },
+  "employeeId": {
+    "$oid": "68c45dd412581208abfd01b8"
+  },
+  "projectId": "P123",
+  "username": "whoiskumaratul",
+  "date": {
+    "$date": "2025-09-04T18:30:00.000Z"
+  },
+  "hoursWorked": 5,
+  "remarks": "",
+  "createdAt": {
+    "$date": "2025-09-26T08:33:09.611Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T08:33:09.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d7bf2de85cd4547b434761"
+  },
+  "employeeId": {
+    "$oid": "68c45dd412581208abfd01b8"
+  },
+  "projectId": "P123",
+  "username": "whoiskumaratul",
+  "date": {
+    "$date": "2025-02-04T18:30:00.000Z"
+  },
+  "hoursWorked": 4,
+  "remarks": "",
+  "createdAt": {
+    "$date": "2025-09-27T10:40:46.447Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-27T10:40:46.447Z"
+  },
+  "__v": 0
+}]

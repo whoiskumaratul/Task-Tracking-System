@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "68c45dd412581208abfd01b8"
+  },
+  "name": "Atul",
+  "email": "atul@example.com",
+  "username": "whoiskumaratul",
+  "password": "$2a$12$eBN61NLojlldvoqgC12B3eOZ.8QGu2f.DHjpSE/MbmWQZ4dnXY9Ya",
+  "role": "employee",
+  "projectId": "P123",
+  "createdAt": {
+    "$date": "2025-09-12T17:52:20.525Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca60e0b0ba98ed12b75f65"
+  },
+  "name": "ranjan",
+  "email": "whoiskumarranjan@example.com",
+  "username": "whoiskumarranjan",
+  "password": "$2a$12$LbVEd.aW6o.9iq5wM1jfouZDMcK3EkS.IOqzjKTYE5CNBEvwGlKnS",
+  "role": "employee",
+  "projectId": "P124",
+  "createdAt": {
+    "$date": "2025-09-17T07:18:56.564Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ccddbfca70e67137f2455d"
+  },
+  "userType": "employee",
+  "username": "john123",
+  "password": "hashedpassword1",
+  "role": "employee",
+  "projects": [
+    {
+      "$oid": "68ccddbfca70e67137f2455a"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-19T04:36:15.744Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T04:36:15.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ccddbfca70e67137f2455f"
+  },
+  "userType": "employee",
+  "username": "jane456",
+  "password": "hashedpassword2",
+  "role": "employee",
+  "projects": [
+    {
+      "$oid": "68ccddbfca70e67137f2455a"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-19T04:36:15.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T04:36:15.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ccdfe8bed8a1d2a247ef76"
+  },
+  "userType": "employee",
+  "username": "john1234",
+  "password": "hashedpassword1",
+  "role": "employee",
+  "projects": [
+    {
+      "$oid": "68ccdfe6bed8a1d2a247ef73"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-19T04:45:28.781Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T04:45:28.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cce009c03529006989efca"
+  },
+  "userType": "employee",
+  "username": "john12354",
+  "password": "hashedpassword1",
+  "role": "employee",
+  "projects": [
+    {
+      "$oid": "68cce009c03529006989efc7"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-19T04:46:01.977Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T04:46:01.977Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cce009c03529006989efcc"
+  },
+  "userType": "employee",
+  "username": "jane4567",
+  "password": "hashedpassword2",
+  "role": "employee",
+  "projects": [
+    {
+      "$oid": "68cce009c03529006989efc7"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-19T04:46:01.989Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T04:46:01.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d93766e6eec356efaedd37"
+  },
+  "userType": "employee",
+  "username": "kumaratuljaiswal",
+  "password": "$2b$10$nXS3KOCiylCfDXAlvvsuCO39xP5naXDpgci4Wyp9J7z5FFRQA/PR6",
+  "role": "employee",
+  "__v": 0
+}]
